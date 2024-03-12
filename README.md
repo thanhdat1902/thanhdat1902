@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **develop full-stack software from FE to BE**
 
-- 🌱 I’m currently learning **DevOps especially for scaling and running software on production, and Deep Learning is my favourite research field**
+- 🌱 I’m currently learning **DevOps** especially for scaling and running software on production,
+
+- 📫 I'm currently working on hardware acceleration (TensorRT) for some most recent Computer Vision models **Yolov7, Medianet**
 
 - 👨‍💻 All of my projects are available at [github.com/thanhdat1902](github.com/thanhdat1902)
 
