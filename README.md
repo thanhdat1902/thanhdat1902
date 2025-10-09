@@ -41,6 +41,4 @@
   <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdat1902" alt="GitHub streak stats for thanhdat1902" />
-</p>
+<p style="text-align:center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdat1902&" alt="thanhdat1902" /></p>
