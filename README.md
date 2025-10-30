@@ -40,5 +40,3 @@
   <a href="https://azure.microsoft.com/en-us/services/functions/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure Functions" width="40" height="40"/></a>
   <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
 </p>
-
-<p style="text-align:center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdat1902&" alt="thanhdat1902" /></p>
