@@ -1,20 +1,60 @@
-<h1 align="center">Hi 👋, I'm Dat Nguyen</h1>
-<h3 align="center">Software Engineer • AI/ML Engineer • DevOps Builder</h3>
+<h1 align="center">Hi, I'm Dat Nguyen</h1>
+<h3 align="center">Founding AI Engineer • AI Systems • Full-Stack • Infrastructure</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thanhdat1902&label=Profile%20views&color=0e75b6&style=flat" alt="thanhdat1902" />
+<p align="center">
+  Building production-grade AI systems from 0 → 1
 </p>
 
-- 🔭 I’m building LangChain-powered multi-agent LLM platforms with an MCP backend at <strong>Planetary Utilities</strong> and <strong>Metalinked Corp</strong>, integrating chatbots for spacecraft design and supply-chain teams.
-- ⚙️ I thrive across the stack: mission-ready microservices, FastAPI + WebSocket backends, React/Angular frontends, and end-to-end CI/CD with Kubernetes, Helm, and GitHub Actions.
-- 🧠 Recently, I’ve been deploying local LLM inference on Scaleway and AWS SageMaker with TensorRT and GPU acceleration, while hardening edge AI workloads in secure customer VPCs.
-- 📚 Publications: AAAI Symposium Series (2024) and SOICT’23 on edge AI analytics and efficient CNN design.
-- 🌐 Portfolio: <a href="https://dat-nguyen.com" target="_blank" rel="noreferrer">dat-nguyen.com</a>
-- 💬 Ask me about building resilient multi-agent systems, production-grade AI/ML stacks, and privacy-aware computer vision.
-- 📫 Reach me at <a href="mailto:thanhdat19022001@gmail.com">thanhdat19022001@gmail.com</a>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/edric-nguyen/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://github.com/thanhdat1902" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
+## About Me
 
+- Founding AI Engineer building end-to-end AI platforms across LLMs, backend systems, and infrastructure  
+- Currently developing multi-agent LLM systems (LangChain + MCP) for spacecraft design and supply-chain intelligence  
+- Full ownership from architecture → development → deployment (on-prem and cloud)
+
+---
+
+## What I Do
+
+**AI Systems**
+- Multi-agent LLM orchestration (LangChain, tool-calling, reasoning systems)  
+- Local and cloud inference (TensorRT, AWS SageMaker, GPU optimization)
+
+**Backend & Real-Time Systems**
+- FastAPI, WebSockets, event-driven microservices  
+- High-performance APIs for AI workflows  
+
+**Full-Stack Applications**
+- React / Angular production applications  
+- AI-integrated user experiences  
+
+**Infrastructure & DevOps**
+- Kubernetes, Helm, CI/CD (GitHub Actions)  
+- On-prem and cloud hybrid deployments in secure environments  
+
+---
+
+## Research & Publications
+
+- AAAI Symposium Series (2024) — Edge AI and efficient deep learning systems  
+- SOICT 2023 — Event-based vision and CNN optimization  
+- Focus: privacy-aware computer vision and edge intelligence  
+
+---
+
+## Selected Impact
+
+- Built multi-agent AI platforms enabling real-time decision workflows  
+- Deployed GPU-accelerated LLM systems with optimized inference pipelines  
+- Designed scalable microservice architectures for production AI systems  
+- Delivered secure AI deployments in enterprise on-prem environments  
+
+---
+
+## Contact
+
+Portfolio: https://dat-nguyen.com  
+Email: thanhdat19022001@gmail.com  
+LinkedIn: https://www.linkedin.com/in/edric-nguyen/  
+GitHub: https://github.com/thanhdat1902
